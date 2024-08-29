@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michael Kenn Tafere</h1>
 <h3 align="center">A Computer Science student from the University of the Philippines Los Baños</h3>
 
-- 🌱 I’m currently learning **Web Programming, Operating Systems, Artificial Intelligence, Programming Languages and Computer Architecture**
+- 🌱 I’m currently learning computer science subjects in UPLB and right now I am focused on **Web Programming, Operating Systems, Artificial Intelligence, Programming Languages and Computer Architecture**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 👨‍💻 My projects include: A simple Android social app created with Flutter, where users can add and manage friends. A survival game designed for two players, developed using Java.
+
+- 📄 Know about me: I’m from Bay, Laguna, where I was born and raised. As a child, and for a good part of my junior high years, I wasn’t very interested in computers or digital devices maybe due to lack of exposure to those things. Instead, I spent most of my time outside, playing with my neighbors and friends. I chose Computer Science program at the very last minute as I am not really sure what I want to take and pursue that's why I entered college with no prior knowledge about computer programming.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
